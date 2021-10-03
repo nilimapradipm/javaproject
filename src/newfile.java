@@ -1,2 +1,2 @@
-public class newfile {
+public class newfile  {
 }
